@@ -113,7 +113,7 @@
             </div>
             <div data-nc-container="bottom-center">
 
-              <a href="/" class="Header-branding" data-nc-element="branding" data-content-field="site-title">
+              <a href="/" class="Header-branding siteLogo" data-nc-element="branding" data-content-field="site-title">
                 {.section website}
                   {.section logoImageUrl}
                     {#  sizes is set to max width for tweak-header-branding-logo-width  }
